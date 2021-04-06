@@ -1,0 +1,104 @@
+Body 
+{
+	Font-Family: "Times New Roman", Serif
+}
+
+H1 
+{
+	Font: Bold 135% Arial, Sans-Serif; Color: #4000A0; Margin-Bottom: 0.9em
+}
+
+H2 
+{	
+	Font: Bold 95% Arial, Sans-Serif; Color: #900000; Margin-Top: 1.5em; Margin-Bottom: 1em
+}
+
+DL.Param DT 
+{
+	Text-Decoration: Underline
+}
+
+DL.Param DD 
+{
+	Margin-Top: 1em; Margin-Bottom: 1em
+}
+
+DL.Param UL 
+{
+	Margin-Top: 1em; Margin-Bottom: 1em
+}
+
+TT, Code, KBD 
+{
+	Font-Family: "Courier New", Courier, Monospace; Font-Size: 82%
+}
+
+Div.Source 
+{
+	Margin-Top: 1.4em; Margin-Bottom: 1.3em
+}
+
+Div.Source Pre 
+{
+	Display: Table; Border: 1px Solid #24246A; Width: 100%; Margin: 0em; Font-Family: Inherit; Font-Size: 100%
+}
+
+Div.Source Code 
+{
+	Display: Block; Border: 1px Solid #C5C5EC; Background-Color: #F0F5FF; Padding: 6px; Color: #000000
+}
+
+Div.Doc-Source 
+{
+	Margin-Top: 1.4em; Margin-Bottom: 1.3em
+}
+
+Div.Doc-Source Pre 
+{
+	Display: Table; Width: 100%; Margin: 0em; Font-Family: Inherit; Font-Size: 100%
+}
+
+Div.Doc-Source Code 
+{
+	Display: Block; Background-Color: #E0E0E0; Padding: 4px
+}
+
+.KW 
+{
+	Color: #000080; Font-Weight: Bold
+}
+
+.Str 
+{
+	Color: #CC0000
+}
+
+.CMT 
+{
+	Color: #008000
+}
+
+P.Demo 
+{
+	Text-Align: Center; Margin-Top: -0.9em
+}
+
+A.Demo 
+{
+	Text-Decoration: None; Font-Weight: Bold; Color: #0000CC
+}
+
+A.Demo:Link 
+{
+	Text-Decoration: None; Font-Weight: Bold; Color: #0000CC
+}
+
+A.Demo:Hover 
+{
+	Text-Decoration: None; Font-Weight: Bold; Color: #0000FF
+}
+
+A.Demo:Active 
+{
+	Text-Decoration: None; Font-Weight: Bold; Color: #0000FF
+}
